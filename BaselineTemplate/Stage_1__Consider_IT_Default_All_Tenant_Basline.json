@@ -17,7 +17,7 @@
       "name": "Initial Low Impact Changes",
       "logic": "and",
       "conditions": [],
-      "standards": [
+  I    "standards": [
         {
           "standard": "AddDKIM",
           "instance": "AddDKIM",
@@ -732,7 +732,6 @@
           "days": 7,
           "unit": "days"
         },
-        {}
       ],
       "standards": [
         {
